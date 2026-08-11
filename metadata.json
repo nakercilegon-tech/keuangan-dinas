@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Informasi Anggaran & Realisasi Keuangan Dinas",
+  "description": "Sistem Informasi Anggaran dan Realisasi Keuangan UPTD Dinas dengan arsitektur PHP Native MVC, MySQL db_keuangan_uptd, manajemen paket pekerjaan, realisasi, pembayaran, dan kalkulasi pajak PPN/PPh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
